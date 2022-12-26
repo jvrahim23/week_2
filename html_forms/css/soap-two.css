@@ -1,0 +1,192 @@
+body {
+  font-family: 'Mulish', sans-serif; 
+}
+
+.apparel-center1, .apparel-center2, .apparel-center3{
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.container-1 {
+  display: flex; 
+  padding: 50px;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.container-2 {
+  display: flex; 
+  padding: 10px;
+  justify-content: center;
+  gap: 40px;  
+}
+
+.container-2 a{
+  text-decoration: none;
+  color: black;
+  
+}
+
+
+form {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+
+
+label {
+  text-align: left;
+}
+
+
+#note {
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  word-wrap: break-word;
+}
+
+
+.logo {
+  width: 140px;
+  height: 140px;
+}
+
+.menu {
+  width: 40px;
+  height: 40px;
+  margin-left: 5% ;
+}
+
+.name-left {
+  text-align: center;
+  margin-top: 0px;
+}
+
+.search-button {
+  width: 40px;
+  height: 40px;
+  margin-right: 5% ;  
+}
+
+#Christmas-presents {
+  justify-content: center;
+  align-items: center;
+  overflow:hidden;
+  width: 954px;
+  height: 381px;
+  display:flex;
+  background-image: url(/assets/pexels-meruyert-gonullu-7500304.jpg);
+}
+
+#products-name {
+  text-align: left;
+  margin-left: 25%;
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+
+#products-banner {
+  margin-left: 25%;
+  margin-right: 25%;
+} 
+
+#products-name-two {
+  font-size: 20px;
+  padding-top: 40px;
+  padding-bottom: 0px;
+}
+
+.stone-products{
+  width: 200px;
+  height: 190px;
+}
+
+#Company-name {
+  text-align: center;
+}
+
+#merchandise-photos {
+  margin-left: 25%;
+  margin-right: 25%;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  padding-bottom: 0px;
+}
+
+#second-name{
+  padding-top: 15%;
+  text-align: center;
+}
+
+#descriptions-two{
+  margin-left: 25%;
+  margin-right: 25%;
+  display: flex;
+  gap: 100px;
+  justify-content: center;
+  padding-top: 30px;
+}
+ .nav-item {
+  position: relative;
+ }
+.drop-down {
+  position: absolute;
+  background-color: #3cb371;
+  max-width: 400px;
+  width: 100%;
+  display: none;
+}
+.nav-item:hover > .drop-down {
+  display: block;
+}
+
+
+.button-one a{
+  text-decoration: none;
+  color:black;
+}
+
+#copyright{
+  padding-top: 50px;
+}
+
+#soap{
+  padding-top: 80px;
+  width: 240px;
+  height: 260px;
+  margin-left: 25%;
+  margin-right: 25%;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  padding-bottom: 0px;
+}
+#Soap-Name{
+  padding-top: 20px;
+  width: 200px;
+  margin-left: 25%;
+  margin-right: 25%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 0px;
+}
+#Soap-Price{
+  margin-left: 29%;
+  margin-right: 25%;
+  display: flex;
+  justify-content: left;
+  padding-bottom: 0px;
+}
+
+.apparel-center3 {
+  margin-top: .5%
+}
+
